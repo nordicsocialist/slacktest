@@ -141,7 +141,7 @@ h1, h2, h3, h4 {
 
 .p-channel_sidebar {
     background-color: #f70909;
-    color: #a1a1a1;
+    color: #f70909;
 }
 
 .p-channel_sidebar__channel, .p-channel_sidebar__channel:link, .p-channel_sidebar__channel:visited, .p-channel_sidebar__channel:hover, .p-channel_sidebar__link, .p-channel_sidebar__link:link, .p-channel_sidebar__link:visited, .p-channel_sidebar__link:hover {
