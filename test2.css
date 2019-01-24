@@ -130,7 +130,7 @@ section.slack_menu_current_team_info.slack_menu_section { display: none; }
 
 .p-channel_sidebar__channel--selected, .p-channel_sidebar__channel--selected:link, .p-channel_sidebar__channel--selected:visited, .p-channel_sidebar__channel--selected:hover, .p-channel_sidebar__link--selected, .p-channel_sidebar__link--selected:link, .p-channel_sidebar__link--selected:visited, .p-channel_sidebar__link--selected:hover { color: #ff9b00; }
 
-.p-channel_sidebar__channel.p-channel_sidebar__channel--im.p-channel_sidebar__channel--unread { color: #FFFFFF; }
+.p-channel_sidebar__channel.p-channel_sidebar__channel--im.p-channel_sidebar__channel--unread { color: #26ff00; }
 
 .p-channel_sidebar__channel:hover, .p-channel_sidebar__link:hover { background: #222 !important; }
 
